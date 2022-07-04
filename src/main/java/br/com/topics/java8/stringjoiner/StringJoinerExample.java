@@ -1,4 +1,4 @@
-package br.com.topics.java8;
+package br.com.topics.java8.stringjoiner;
 
 import java.util.ArrayList;
 import java.util.List;
