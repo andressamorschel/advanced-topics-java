@@ -6,7 +6,7 @@ import java.util.StringJoiner;
 
 public class StringJoinerExample {
 
-    public void testStringJoiner(){
+    public void testStringJoiner() {
 
         List<String> names = new ArrayList<>();
         names.add("Andressa");
@@ -17,7 +17,7 @@ public class StringJoinerExample {
 
         StringJoiner stringJoiner = new StringJoiner(" - ");
 
-        for(String i: names){
+        for (String i : names) {
             stringJoiner.add(i);
         }
 
